@@ -1,0 +1,5 @@
+(1)  What year was Ezio Auditore Da Firenze born? A--1459 or B--1500
+(2)  What is Bartolomeo's sword called? A--Maria or B--Bianca
+(3)  What is Cesare Borgia's sister called? A--Catarina or B--Lucrezia
+(4)  How many times is Rome bigger than Florence? A--3 or B--4
+(5)  How does Rodrigo Borgia die? A--Ezio throws him off the walls of Monteriggioni or B--Cesare poisones him
